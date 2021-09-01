@@ -2,7 +2,7 @@ import { storageService } from './asyncStorageService'
 
 const gStocks = require('../stocks.json')
 
-const STORAGE_KEY = 'STOCK'
+const STORAGE_KEY = 'STOCK_KEY'
 
 export const stockService = {
     query,

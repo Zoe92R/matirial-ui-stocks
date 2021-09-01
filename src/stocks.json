@@ -24,60 +24,124 @@
         "second": "0.9560",
         "third": "-0.35%",
         "fourth": "6.450M",
-        "star": true
-    },
-    {
-        "type": "XRP",
-        "_id": "4",
-        "first": "XRPAUD",
-        "second": "1.55",
-        "third": "-0.57%",
-        "fourth": "121.8K",
         "star": false
     },
     {
         "type": "XRP",
+        "_id": "4",
+        "first": "XRPETH",
+        "second": "0.0003566",
+        "third": "+0.39%",
+        "fourth": "230K",
+        "star": true
+    },
+    {
+        "type": "XRP",
         "_id": "5",
-        "first": "XRPAUD",
-        "second": "1.55",
-        "third": "-0.57%",
-        "fourth": "121.8K",
+        "first": "XRPGBP",
+        "second": "0.8176",
+        "third": "-0.65%",
+        "fourth": "976.1K",
         "star": false
     },
     {
         "type": "XRP",
         "_id": "6",
-        "first": "XRPAUD",
-        "second": "1.55",
-        "third": "-0.57%",
-        "fourth": "121.8K",
+        "first": "XRPJPY",
+        "second": "124.02",
+        "third": "-0.76%",
+        "fourth": "26.32K",
         "star": false
     },
     {
         "type": "XRP",
         "_id": "8",
-        "first": "XRPAUD",
-        "second": "1.55",
-        "third": "-0.57%",
-        "fourth": "121.8K",
+        "first": "XRPUSD",
+        "second": "1.13",
+        "third": "-0.56%",
+        "fourth": "4.333M",
         "star": false
     },
     {
         "type": "BCH",
         "_id": "9",
-        "first": "XRPAUD",
-        "second": "1.55",
-        "third": "-0.57%",
-        "fourth": "121.8K",
+        "first": "XRPAUSDT",
+        "second": "1.13",
+        "third": "-0.35%",
+        "fourth": "825.7K",
         "star": false
     },
     {
         "type": "BCH",
         "_id": "10",
-        "first": "XRPAUD",
-        "second": "1.55",
-        "third": "-0.57%",
-        "fourth": "121.8K",
+        "first": "BCHAUD",
+        "second": "929.99",
+        "third": "-0.05%",
+        "fourth": "7.58",
+        "star": false
+    },
+    {
+        "type": "BCH",
+        "_id": "10",
+        "first": "BCHBTH",
+        "second": "0.01347",
+        "third": "-3.37%",
+        "fourth": "155.61",
+        "star": false
+    },
+    {
+        "type": "BCH",
+        "_id": "10",
+        "first": "BCHBTC",
+        "second": "0.2040",
+        "third": "-3.32%",
+        "fourth": "64.78",
+        "star": false
+    },
+    {
+        "type": "BCH",
+        "_id": "10",
+        "first": "BCHAUR",
+        "second": "548.56",
+        "third": "-4.06%",
+        "fourth": "1227K",
+        "star": false
+    },
+    {
+        "type": "BCH",
+        "_id": "10",
+        "first": "BCHGBP",
+        "second": "466.70",
+        "third": "-4.82%",
+        "fourth": "9.65",
+        "star": false
+    },
+    {
+        "type": "BCH",
+        "_id": "10",
+        "first": "BCHJPY",
+        "second": "70759.00",
+        "third": "-5.00%",
+        "fourth": "20.61",
+        "star": false
+    },
+    {
+        "type": "BCH",
+        "_id": "10",
+        "first": "BCHUSD",
+        "second": "466.70",
+        "third": "-4.82%",
+        "fourth": "9.65",
+        "star": false
+    },
+    {
+        "type": "BCH",
+        "_id": "10",
+        "first": "BCHUSDT",
+        "second": "646.66",
+        "third": "-4.33%",
+        "fourth": "150.12",
         "star": false
     }
+
 ]
