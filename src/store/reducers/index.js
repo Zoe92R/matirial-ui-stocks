@@ -1,9 +1,9 @@
 import { combineReducers } from 'redux'
 import { systemReducer } from './systemReducer'
-import { taskReducer } from './taskReducer'
+import { stockReducer } from './stockReducer'
 
 
 export const rootReducer = combineReducers({
     systemModule: systemReducer,
-    taskModule: taskReducer,
+    stockModule: stockReducer,
 })

@@ -1,0 +1,83 @@
+[
+    {
+        "type": "XRP",
+        "_id": "1",
+        "first": "XRPAUD",
+        "second": "1.55",
+        "third": "-0.57%",
+        "fourth": "121.8K",
+        "star": false
+    },
+    {
+        "type": "XRP",
+        "_id": "2",
+        "first": "XRPBTC",
+        "second": "0.00002354",
+        "third": "+0.43%",
+        "fourth": "824.6K",
+        "star": false
+    },
+    {
+        "type": "XRP",
+        "_id": "3",
+        "first": "XRPEUR",
+        "second": "0.9560",
+        "third": "-0.35%",
+        "fourth": "6.450M",
+        "star": true
+    },
+    {
+        "type": "XRP",
+        "_id": "4",
+        "first": "XRPAUD",
+        "second": "1.55",
+        "third": "-0.57%",
+        "fourth": "121.8K",
+        "star": false
+    },
+    {
+        "type": "XRP",
+        "_id": "5",
+        "first": "XRPAUD",
+        "second": "1.55",
+        "third": "-0.57%",
+        "fourth": "121.8K",
+        "star": false
+    },
+    {
+        "type": "XRP",
+        "_id": "6",
+        "first": "XRPAUD",
+        "second": "1.55",
+        "third": "-0.57%",
+        "fourth": "121.8K",
+        "star": false
+    },
+    {
+        "type": "XRP",
+        "_id": "8",
+        "first": "XRPAUD",
+        "second": "1.55",
+        "third": "-0.57%",
+        "fourth": "121.8K",
+        "star": false
+    },
+    {
+        "type": "BCH",
+        "_id": "9",
+        "first": "XRPAUD",
+        "second": "1.55",
+        "third": "-0.57%",
+        "fourth": "121.8K",
+        "star": false
+    },
+    {
+        "type": "BCH",
+        "_id": "10",
+        "first": "XRPAUD",
+        "second": "1.55",
+        "third": "-0.57%",
+        "fourth": "121.8K",
+        "star": false
+    }
+]

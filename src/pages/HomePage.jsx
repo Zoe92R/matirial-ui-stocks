@@ -1,17 +1,17 @@
 import React, { useEffect } from 'react'
-import { TaskList } from '../cmps/TaskList.jsx'
-import { loadTasks } from '../store/actions/taskAction.js'
+import { StockList } from '../cmps/StockList.jsx'
+import { loadStocks } from '../store/actions/stockAction.js'
 import { useDispatch, useSelector } from 'react-redux'
 
 export const HomePage  = () =>{
 
     const dispatch = useDispatch()
-    const tasks = useSelector(state => state.taskModule.tasks)
+    const stocks = useSelector(state => state.stockModule.stocks)
     const isLoading = useSelector(state => state.systemModule.isLoading)
 
 
     useEffect(() => {
-        dispatch(loadTasks())
+        dispatch(loadStocks())
         return () => {
         }
     }, [])
@@ -19,7 +19,7 @@ export const HomePage  = () =>{
 
         if (isLoading) return <div>Loading...</div>
         return (
-                <TaskList tasks={tasks} />
+                <StockList stocks={stocks} />
         )
     
 }
