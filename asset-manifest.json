@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/matirial-ui-stocks/static/css/main.ba6b2373.chunk.css",
+    "main.js": "/matirial-ui-stocks/static/js/main.8c582b82.chunk.js",
+    "main.js.map": "/matirial-ui-stocks/static/js/main.8c582b82.chunk.js.map",
+    "runtime-main.js": "/matirial-ui-stocks/static/js/runtime-main.111ec749.js",
+    "runtime-main.js.map": "/matirial-ui-stocks/static/js/runtime-main.111ec749.js.map",
+    "static/js/2.edc1eb05.chunk.js": "/matirial-ui-stocks/static/js/2.edc1eb05.chunk.js",
+    "static/js/2.edc1eb05.chunk.js.map": "/matirial-ui-stocks/static/js/2.edc1eb05.chunk.js.map",
+    "static/js/3.42ba535f.chunk.js": "/matirial-ui-stocks/static/js/3.42ba535f.chunk.js",
+    "static/js/3.42ba535f.chunk.js.map": "/matirial-ui-stocks/static/js/3.42ba535f.chunk.js.map",
+    "index.html": "/matirial-ui-stocks/index.html",
+    "static/css/main.ba6b2373.chunk.css.map": "/matirial-ui-stocks/static/css/main.ba6b2373.chunk.css.map",
+    "static/js/2.edc1eb05.chunk.js.LICENSE.txt": "/matirial-ui-stocks/static/js/2.edc1eb05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.111ec749.js",
+    "static/js/2.edc1eb05.chunk.js",
+    "static/css/main.ba6b2373.chunk.css",
+    "static/js/main.8c582b82.chunk.js"
+  ]
+}
