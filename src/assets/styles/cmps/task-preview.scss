@@ -1,0 +1,25 @@
+.star-i {
+    &.yellow {
+        color: yellow;
+    }
+    &.grey {
+        color: grey;
+    }
+}
+
+.percent {
+    &.red {
+        color: #a2212f;
+    }
+    &.green {
+        color: #40774e;
+    }
+}
+
+// .grey-cell {
+//     color: grey;
+// }
+
+.white-cell {
+    color: white;
+}
