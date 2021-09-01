@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/matirial-ui-stocks/static/css/main.ba6b2373.chunk.css",
-    "main.js": "/matirial-ui-stocks/static/js/main.8c582b82.chunk.js",
-    "main.js.map": "/matirial-ui-stocks/static/js/main.8c582b82.chunk.js.map",
+    "main.js": "/matirial-ui-stocks/static/js/main.c0409dbd.chunk.js",
+    "main.js.map": "/matirial-ui-stocks/static/js/main.c0409dbd.chunk.js.map",
     "runtime-main.js": "/matirial-ui-stocks/static/js/runtime-main.111ec749.js",
     "runtime-main.js.map": "/matirial-ui-stocks/static/js/runtime-main.111ec749.js.map",
     "static/js/2.edc1eb05.chunk.js": "/matirial-ui-stocks/static/js/2.edc1eb05.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.111ec749.js",
     "static/js/2.edc1eb05.chunk.js",
     "static/css/main.ba6b2373.chunk.css",
-    "static/js/main.8c582b82.chunk.js"
+    "static/js/main.c0409dbd.chunk.js"
   ]
 }
